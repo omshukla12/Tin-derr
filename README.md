@@ -1,8 +1,10 @@
 # Tinder Clone Using MERN Stack
-Overview
+Overview-
+
 This repository contains the code for a Tinder clone application built using the MERN stack. The MERN stack consists of MongoDB, Express.js, React.js, and Node.js, which together provide a powerful framework for developing full-stack web applications. This Tinder clone aims to replicate the core features of the popular dating app, allowing users to create profiles, swipe through potential matches, and connect with other users.
 
-Features
+Features-
+
 User Authentication: Secure user sign-up and login using JWT (JSON Web Tokens) and bcrypt for password hashing.
 User Profiles: Users can create and update their profiles with personal information and photos.
 Swipe Functionality: Implemented swipe left (dislike) and swipe right (like) functionality.
@@ -24,8 +26,6 @@ Node.js (>= 14.x)
 MongoDB (running locally or a MongoDB Atlas account)
 Clone the Repository
 bash
-Copy code
-git clone https://github.com/your-username/tinder-clone-mern.git
 cd tinder-clone-mern
 Backend Setup
 Navigate to the backend directory:
@@ -67,7 +67,8 @@ Copy code
 npm start
 Open your browser and go to http://localhost:3000 to view the application.
 
-Usage
+Usage-
+
 Sign Up / Login: Create a new account or log in with your existing credentials.
 Create Profile: Set up your profile by adding personal details and photos.
 Swipe Through Profiles: Swipe left to dislike or right to like other profiles.
@@ -83,9 +84,11 @@ Open a Pull Request.
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact
+Contact-
+
 For any inquiries or feedback, please reach out to omshukla2060@gmail.com .
 
-Acknowledgements
+Acknowledgements-
+
 Inspired by the design and functionality of Tinder.
 Thanks to the open-source community for providing tools and libraries that made this project possible.
