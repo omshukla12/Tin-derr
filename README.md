@@ -18,7 +18,7 @@ Database: MongoDB (using Mongoose for schema modeling)
 Authentication: JWT (JSON Web Tokens), bcrypt (for password hashing)
 Real-time Communication: Socket.io
 Hosting: Deployed on Heroku or Vercel
-Installation
+Installation - 
 To get a copy of this project up and running on your local machine, follow these steps:
 
 Prerequisites
