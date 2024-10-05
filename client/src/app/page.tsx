@@ -6,7 +6,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
-import { Globe, ChevronRight, Menu, X, User } from 'lucide-react'
+import { Globe, ChevronRight, Menu, X} from 'lucide-react'
 
 export default function TinderHomepage() {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
@@ -211,8 +211,8 @@ export default function TinderHomepage() {
               </div>
             </div>
             <div className="mt-8 text-sm">
-              <p className="mb-4">Single people, listen up: If you are looking for love, want to start dating, or just keep it casual, you need to be on Tinder. With over 55 billion matches made, it is the place to be to meet your next best match. Let us be real, the dating landscape looks very different today, as most people are meeting online. With Tinder, the world's most popular free dating app, you have millions of other single people at your fingertips and they're all ready to meet someone like you. Whether you're straight or in the LGBTQIA community, Tinder's here to bring you all the sparks.</p>
-              <p>There really is something for everyone on Tinder. Want to get into a relationship? You got it. Trying to find some new friends? Say no more. New kid on campus and looking to make the most of your college experience? Tinder U's got you covered. Tinder isn't your average dating site — it's the most diverse dating app, where adults of all backgrounds and experiences are invited to make connections, memories, and everything in between.</p>
+              <p className="mb-4">Single people, listen up: If you are looking for love, want to start dating, or just keep it casual, you need to be on Tinder. With over 55 billion matches made, it is the place to be to meet your next best match. Let us be real, the dating landscape looks very different today, as most people are meeting online. With Tinder, the worlds most popular free dating app, you have millions of other single people at your fingertips and they are all ready to meet someone like you. Whether you are straight or in the LGBTQIA community, Tinders here to bring you all the sparks.</p>
+              <p>There really is something for everyone on Tinder. Want to get into a relationship? You got it. Trying to find some new friends? Say no more. New kid on campus and looking to make the most of your college experience? Tinder Us got you covered. Tinder is not your average dating site — it is the most diverse dating app, where adults of all backgrounds and experiences are invited to make connections, memories, and everything in between.</p>
             </div>
             <div className="mt-4 text-sm">
               <Link href="#" className="hover:text-pink-400 transition-colors mr-4">FAQ</Link>
